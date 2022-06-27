@@ -9,8 +9,12 @@ This project is about saving data in JPDB from HTML form.
 - It has simplified method to retrieve data in JSON format.
 - Data is indexed in real-time using PowerIndex engine.
 ## Illustration
+- Database name : SAMPLE
+- Database relation : EMP-REL
 #### Adding details
+![](pic1.png)
 #### Visualising in **JPDB**
+![](pic2.png)
 ## Release Notes
 ### June 27, 2022
 #### First JPDB Project
